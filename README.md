@@ -17,7 +17,7 @@ P.S you need to place keys inside of the directory "keys" (all the files in the 
 
 ## 2 - Download The games and updates
 
-To download the game: 
+To download the game: aHR0cHM6Ly9nb2ZpbGUuaW8vZC93Q0QwZms=
 
 To download the v1.1.1 update: aHR0cHM6Ly9nb2ZpbGUuaW8vZC9qWkpobmY
 
@@ -48,7 +48,7 @@ Per giocare hai bisogno di chiavi, perché sei fortunato puoi scaricarle qui: aH
 P.S. è necessario inserire le chiavi all'interno della directory "keys" (tutti i file presenti nel link sopra).
 ## 2 - Scaricare il gioco e gli aggiornamenti
 
-Per scaricare il gioco:
+Per scaricare il gioco: aHR0cHM6Ly9nb2ZpbGUuaW8vZC93Q0QwZms=
 
 Per scaricare l'aggiornamento v1.1.1: aHR0cHM6Ly9nb2ZpbGUuaW8vZC9qWkpobmY
 ## 3 - Aggiungere la cartella del gioco
